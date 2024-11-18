@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "992042031238",
+    "project_id": "lastlogin-2b109",
+    "storage_bucket": "lastlogin-2b109.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992042031238:android:0810537e5f8e89a13d5907",
+        "android_client_info": {
+          "package_name": "com.example.lastlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlvoJSos2oLGEENN8cCu64eqLjtwMek2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
